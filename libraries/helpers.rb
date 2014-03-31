@@ -9,7 +9,7 @@ module X264
   module Helpers
     def x264_packages
       [
-        "libx264-85", 
+        "libx264-120", 
         "libx264-dev"
       ]
     end
